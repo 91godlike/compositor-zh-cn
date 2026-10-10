@@ -6,7 +6,7 @@
 
 ## 下载与安装
 
-从 [Releases](../../releases) 下载 `Compositor-1.4.9-简体中文版.zip`，解压后将 **Compositor 中文版.app** 放到 Mac 的“应用程序”中。
+从 [Releases](https://github.com/91godlike/compositor-zh-cn/releases) 下载 `Compositor-1.4.9-zhcn.1-macos-arm64.zip`，解压后将 **Compositor 中文版.app** 放到 Mac 的“应用程序”中。
 
 - 本次发布为 **Apple Silicon / arm64** 构建，最低部署目标为 **macOS 26.0**；已在 macOS 27.0.1 的 Apple Silicon Mac 上启动验证。
 - 使用本地 ad hoc 签名，没有 Apple 开发者公证。其他 Mac 的系统验证结果尚未测试。
